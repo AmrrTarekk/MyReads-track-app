@@ -2,7 +2,7 @@
 
 ## Description
 MyReads: A Book Tracking App which tracks your books and place them to one of three shelves (Currently Reading, Want To Read, and Read). 
-It also searches for new books and gives you the appility to add them to your Reads. 
+It also searches for new books and gives you the ability to add them to your Reads. 
 There's also a feature that makes you move any of these books ti any shelf you want. 
 
 The Project is to:
